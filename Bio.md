@@ -13,14 +13,16 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 ### I am <b>Soumadip Das</b>
 
-A teenager intrested in coding.
+
+- [x] A teenager intrested in coding.
+- [x] Love to watch Anime. 
 
 
 
 ### Social Links:-
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
+[![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=social&logo-telegram)](https://telegram.me/anonymous7205)
 [![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Soymadip&style=social)](https://github.com/soymadip)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AnonymousYT-?style=social)](https://www.reddit.com/user/AnonymousYT-)
 
