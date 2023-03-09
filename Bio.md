@@ -12,9 +12,8 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 -->
 
 ### 𝗜 𝗮𝗺 𝗦𝗼𝘂𝗺𝗮𝗱𝗶𝗽 𝗗𝗮𝘀
-
-
-- [x] A teenager intrested in coding.
+A teenager 
+- [x] intrested in coding.
 - [x] Love to watch Anime. 
 
 
