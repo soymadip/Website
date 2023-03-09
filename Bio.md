@@ -12,7 +12,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 -->
 
 <p align="center">
-   I am Soumadip Das
+   <b>I am Soumadip Das</b>
 </p>
  
 - [x] A teenager intrested in coding.
