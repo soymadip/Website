@@ -10,6 +10,10 @@ I made mine with https://bit.ly/GitPro07
 Then i recorded my screen with OBS..
 Now copy that file to android/iOS and convert to gif with any video tool. (I used inshot)
 -->
+
+
+
+## Hi I am <b>Soumadip Das<b/>, A teenager intrested in coding.
 ### Social Links:-
 <div align="left">
 
