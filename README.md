@@ -1,10 +1,6 @@
 <p align="center">
-
   <img src="assets/readme.gif" alt="Soymadip">
-
 </p>
-
-
 
 <!--
 How to make this gif?
