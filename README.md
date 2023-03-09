@@ -13,7 +13,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-YTDLnis-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
+[![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
 
 
 
