@@ -13,7 +13,13 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 
 
-## Hi I am <b>Soumadip Das<b/>, A teenager intrested in coding.
+Hi I am <b>Soumadip Das</b>,
+
+
+A teenager intrested in coding.
+
+
+
 ### Social Links:-
 <div align="left">
 
