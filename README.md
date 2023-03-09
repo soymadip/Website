@@ -11,7 +11,9 @@ Then i recorded my screen with OBS..
 Now copy that file to android/iOS and convert to gif with any video tool. (I used inshot)
 -->
 
+<div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-YTDLnis-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
 
 
 
