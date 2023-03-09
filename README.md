@@ -15,15 +15,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 [![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
 ![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Soymadip&style=social)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/AnonymousYT-?style=social)
-
-
-
-
-
-
-
-
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AnonymousYT-?style=social)
 
 
 
