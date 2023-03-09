@@ -14,6 +14,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 <div align="left">
 
 [![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=flat-square&logo-telegram)](https://telegram.me/anonymous7205)
+![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Soymadip&style=social)
 
 
 
