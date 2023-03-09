@@ -11,7 +11,9 @@ Then i recorded my screen with OBS..
 Now copy that file to android/iOS and convert to gif with any video tool. (I used inshot)
 -->
 
-<h1 align="center">I am Soumadip Das</h1>
+<p align="center">
+   I am Soumadip Das
+</p>
  
 - [x] A teenager intrested in coding.
 - [x] Love to watch Anime. 
