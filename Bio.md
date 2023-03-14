@@ -24,8 +24,8 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 ### Social Links:-
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=social&logo-telegram)](https://telegram.me/anonymous7205)
-[![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Soymadip&style=flat)](https://github.com/soymadip)
+[![Telegram](https://img.shields.io/badge/Telegram-SD-blue?style=social&logo-youtube)](https://telegram.me/anonymous7205)
+[![GitHub followers](https://img.shields.io/github/followers/soymadip?label=Soymadip&style=social)](https://github.com/soymadip)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/AnonymousYT-?style=social)](https://www.reddit.com/user/AnonymousYT-)
 [![soumadip72005](https://img.shields.io/twitter/url?label=soumadip72005&style=social&url=https%3A%2F%2Ftwitter.com%2Fsoumadip72005)](https://twitter.com/soumadip72005)
 
