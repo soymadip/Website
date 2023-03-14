@@ -17,7 +17,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
  
 - [x] A teenager intrested in coding.
 - [x] Love to watch Anime. 
-- [x] Hate to go to outside 
+- [x] Hate to go outside 
 
 
 
