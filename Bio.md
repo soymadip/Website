@@ -6,9 +6,9 @@
 How to make this gif?
 Easiest way:-
 
-I made mine with https://bit.ly/GitPro07
+I made my name with https://bit.ly/GitPro07
 Then i recorded my screen with OBS..
-Now copy that file to android/iOS and convert to gif with any video tool. (I used inshot)
+Now copy that file to android/iOS and convert to gif with any video tool. (I used inShot)
 -->
 
 <h1 align="center">
@@ -18,6 +18,7 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 - [x] A teenager intrested in coding.
 - [x] Love to watch Anime. 
 - [x] Hate to go outside 
+
 
 
 
