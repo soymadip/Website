@@ -15,9 +15,9 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 <b>I am Soumadip Das</b>
 </h1>
  
-- [x] A teenager intrested in coding.
-- [x] Love to watch Anime. 
-- [x] Hate to go outside 
+- A teenager intrested in coding.
+- Love to watch Anime. 
+- Hate to go outside 
 
 
 
