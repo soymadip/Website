@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="files/welcome.gif">
+  <img src="files/welcome .gif">
 </p>
 
 <!--
@@ -16,8 +16,10 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 </h1>
  
 - A teenager intrested in coding.
-- Love to watch Anime. 
-- Hate to go outside 
+- Love to watch <b>Anime</b>.
+- An ambivert otaku. 
+- Learned HTML & python by pure interest.
+- Want to learn android development.
 
 
 
