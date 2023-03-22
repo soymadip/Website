@@ -15,9 +15,10 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 <b>I am Soumadip Das</b>
 </h1>
  
+
+- An ambivert otaku.
+- Love to watch <b>Anime</b>. 
 - A teenager intrested in coding.
-- Love to watch <b>Anime</b>.
-- An ambivert otaku. 
 - Learned HTML & python by pure interest.
 - Want to learn android development.
 
