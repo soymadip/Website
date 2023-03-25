@@ -1,7 +1,7 @@
 # Website
 Repo for my Gitbook website🙂:- 
 
-➤ [soumadip.gitbook.io](https://incognitoyt.gitbook.io) 
+➤ [soumadip.gitbook.io](https://soumadip.gitbook.io) 
 
 <p align="center">
 
