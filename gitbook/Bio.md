@@ -37,6 +37,8 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
 
 ### Anime Links:-
 [![MyWatchedAnime](https://img.shields.io/badge/My%20Anime%20List-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://soumadip.gitbook.io/m/myanimelist) 
+  
+
 [![Anilist](https://img.shields.io/badge/%F0%9F%87%A6%20Anilist-IncognitoYT-blueviolet?style=for-the-badge)](https://anilist.co/user/IncognitoYT/) [![MAL](https://img.shields.io/badge/%F0%9F%8C%90%20MAL-Incognito%20YT-Blueviolet?style=for-the-badge)](https://myanimelist.net/profile/IncognitoYT) [![AniDB](https://img.shields.io/badge/%F0%9F%8C%90%20AniDB-In-Blueviolet?style=for-the-badge)](https://anidb.net/user/profile)
 
 </div>
