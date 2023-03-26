@@ -2,9 +2,9 @@
   <details>
   <summary>Anime:-</summary>
 
-1.[Watched](https://soumadip.gitbook.io/m/myanimelist#my-watched-animes-)
+1.[Watched](https://soumadip.gitbook.io/m/myanimelist#my-watched-anime-s)
 
-2.[Planned](https://soumadip.gitbook.io/m/myanimelist#my-planned-animes-)
+2.[Planned](https://soumadip.gitbook.io/m/myanimelist#my-planned-anime-s)
 
   </details>
   </p>
