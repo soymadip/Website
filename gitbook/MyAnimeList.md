@@ -1,13 +1,7 @@
-<p>
-  <details>
-  <summary>Anime:-</summary>
+# My Planned Anime(s):-
 
-1.[Watched](https://soumadip.gitbook.io/m/myanimelist#my-watched-anime-s)
-
-2.[Planned](https://soumadip.gitbook.io/m/myanimelist#my-planned-anime-s)
-
-  </details>
-  </p>
+- One Oiece(Watching).
+- Re:Zero  [updated <b>26th March,2023</b>]
 
 # My Watched Anime(S):-
 
@@ -101,10 +95,3 @@
 
 
 
-# My Planned Anime(s):-
-
-- Last updated <b>26th March,2023</b>
-- One Oiece(Watching).
-- Re:Zero
-
-            
