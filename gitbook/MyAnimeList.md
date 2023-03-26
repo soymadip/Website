@@ -1,6 +1,6 @@
 
 Love and lies
-Mob phsyco 100
+- Mob phsyco 100
 Call of the night 
 Uzaki-chan wants to hang out
 Cowboy bebop 
