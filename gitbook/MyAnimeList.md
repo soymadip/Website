@@ -3,6 +3,7 @@
   <summary>Anime:-</summary>
 
 1.[Watched](https://soumadip.gitbook.io/m/myanimelist#my-watched-animes-)
+
 2.[Planned](https://soumadip.gitbook.io/m/myanimelist#my-planned-animes-)
 
   </details>
