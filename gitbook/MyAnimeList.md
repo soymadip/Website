@@ -1,9 +1,9 @@
-# My Planned Anime(s):-
+# Watching Anime(s):-
 
-- One Oiece(Watching).
+- One Peace.
 - Re:Zero  [updated <b>26th March,2023</b>]
 
-# My Watched Anime(S):-
+# Watched Anime(S):-
 
 - [x] Love and lies
 - [x] Mob phsyco 100
