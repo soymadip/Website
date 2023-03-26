@@ -1,3 +1,11 @@
+<p>
+  <details>
+  <summary>- Anime:-</summary>
+1.[Watched](https://soumadip.gitbook.io/m/myanimelist#my-watched-animes-)
+2.[Planned](https://soumadip.gitbook.io/m/myanimelist#my-planned-animes-)
+  </details>
+  </p>
+
 # My Watched Anime(S):-
 
 - [x] Love and lies
@@ -87,3 +95,11 @@
 - [x] Cyberpunk edgerunners
 - [x] My stepmom's daughter is my ex
 - [x] Why the hell are you here teacher
+
+
+
+# My Planned Anime(s):-
+
+- [] One Oiece(Watching).
+- [] Re:Zero
+            - Last updated 26th March,2023
