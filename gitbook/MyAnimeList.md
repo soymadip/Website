@@ -1,7 +1,7 @@
 # Watching Anime(s):-
 
 - One Peace.
-- Re:Zero  [updated <b>26th March,2023</b>]
+- Black Butler [updated <b>29th March,2023</b>]
 
 # Watched Anime(S):-
 
