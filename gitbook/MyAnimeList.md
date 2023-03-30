@@ -5,6 +5,7 @@
 
 # Watched Anime(S):-
 
+- [x] Black Butler 
 - [x] Love and lies
 - [x] Mob phsyco 100
 - [x] Call of the night
