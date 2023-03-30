@@ -1,6 +1,6 @@
 # Watching Anime(s):-
 
-- One Peace.
+- One Piece.
 - Black Butler [updated <b>29th March,2023</b>]
 
 # Watched Anime(S):-
