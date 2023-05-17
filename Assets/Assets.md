@@ -1,1 +1,1 @@
-## This directory is used for various files and uploads.
+## This directory is used for various files(mainly icons & gifs) and uploads.
