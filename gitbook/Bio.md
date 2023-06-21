@@ -17,10 +17,10 @@ Now copy that file to android/iOS and convert to gif with any video tool. (I use
  
 
 - An ambivert otaku[*](https://en.m.wikipedia.org/wiki/Otaku)
-- Love to watch <b>Anime</b>. 
+- Love to watch Anime. 
+- Linux fanboy.
 - A teenager intrested in coding.
-- Want to learn android development.
-- Learned HTML & python by pure interest.
+- Learning HTML & python.
 
 
 

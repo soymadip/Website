@@ -1,10 +1,15 @@
 # Watching Anime(s):-
 
 - One Piece.
-- Black Butler [updated <b>29th March,2023</b>]
+- Black Butler [updated <b>21st June,2023</b>]
 
 # Watched Anime(S):-
 
+- [x] Tomo chan ia a girl
+- [x] Guilty Crown
+- [x] Buddy Daddies
+- [x] Detective Conan
+- [x] One piece movies 
 - [x] Black Butler 
 - [x] Love and lies
 - [x] Mob phsyco 100
